@@ -35,4 +35,6 @@ Guru:
 ❥ Password: 123456
 
 
-Tampilan Menu
+Tampilan Aplikasi :
+![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/gmbr/Screenshot%202023-12-02%20151427.png?raw=true)
+
