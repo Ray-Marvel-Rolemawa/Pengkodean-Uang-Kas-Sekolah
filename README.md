@@ -59,7 +59,7 @@ Guru:
 ![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/User.png?raw=true)
 
 # Designer PHPMyAdmin
-![alt text](?raw=true)
+![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Designer.png?raw=true)
 
 
 # Flowchart Penggunaan Aplikasi
