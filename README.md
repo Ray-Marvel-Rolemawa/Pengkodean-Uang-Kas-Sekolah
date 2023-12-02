@@ -50,4 +50,10 @@ Guru:
 # Structure PHP My Admin
 ![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Database.png?raw=true)
 ![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Bulan_pembayaran.png?raw=true)
-
+![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Jabatan.png?raw=true)
+![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Pengeluaran.png?raw=true)
+![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Riwayat.png?raw=true)
+![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Riwayat_pengeluaran.png?raw=true)
+![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Siswa.png?raw=true)
+![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Uang_kas.png?raw=true)
+![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/User.png?raw=true)
