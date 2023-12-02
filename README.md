@@ -49,5 +49,5 @@ Guru:
 
 # Structure PHP My Admin
 ![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Database.png?raw=true)
-
+![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Bulan_pembayaran.png?raw=true)
 
