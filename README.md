@@ -14,7 +14,10 @@ Meskipun begitu, tapi aplikasi ini sangat praktis dan tetap optimal dengan bisa 
 4. Buat database dengan nama: uang_kas
 5. Import file uang_kas.sql pada folder yang di ekstrak tadi
 6. Buka localhost/uang_kas
-7. Selesai
+7. Ketik "localhost/SistemInformasiAkuntansi-Uang-Kas-Sekolah/" di browsing. Note : Tanda kutip tidak perlu disertakan
+8. Aplikasi terbuka
+9. Login 
+10. Selesai
 
 # Akun
 
