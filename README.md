@@ -47,7 +47,7 @@ Guru:
 ![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Screenshot%202023-12-02%20151833.png?raw=true)
 ![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Screenshot%202023-12-02%20151850.png?raw=true)
 
-# Structure PHP My Admin
+# Structure PHPMyAdmin
 ![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Database.png?raw=true)
 ![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Bulan_pembayaran.png?raw=true)
 ![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Jabatan.png?raw=true)
@@ -57,3 +57,10 @@ Guru:
 ![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Siswa.png?raw=true)
 ![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Uang_kas.png?raw=true)
 ![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/User.png?raw=true)
+
+# Designer PHPMyAdmin
+![alt text](?raw=true)
+
+
+# Flowchart Penggunaan Aplikasi
+![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Flowchart_uang_kas.drawio.png?raw=true)
