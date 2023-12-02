@@ -1,3 +1,7 @@
+# Tugas SIA
+Ray Marvel Rolemawa
+12030122120021
+
 # SistemInformasiAkuntansi-Uang-Kas-Sekolah
 Aplikasi Sederhana untuk mengelola uang kas sekaligus pengeluarannya. 
 Aplikasi ini hanya dapat menghandle satu kelas saja.
