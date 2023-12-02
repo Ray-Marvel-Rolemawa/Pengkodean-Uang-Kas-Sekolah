@@ -40,15 +40,20 @@ Guru:
 
 
 # Tampilan Aplikasi 
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/gmbr/Screenshot%202023-12-02%20154312.png?raw=true)
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/gmbr/Screenshot%202023-12-02%20151642.png?raw=true)
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/gmbr/Screenshot%202023-12-02%20151701.png?raw=true)
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/gmbr/Screenshot%202023-12-02%20151810.png?raw=true)
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/gmbr/Screenshot%202023-12-02%20151833.png?raw=true)
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/gmbr/Screenshot%202023-12-02%20151850.png?raw=true)
+![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Screenshot%202023-12-02%20154312.png
+?raw=true)
+![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Screenshot%202023-12-02%20151642.png
+?raw=true)
+![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Screenshot%202023-12-02%20151701.png
+?raw=true)
+![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Screenshot%202023-12-02%20151810.png
+?raw=true)
+![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Screenshot%202023-12-02%20151833.png
+?raw=true)
+![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Screenshot%202023-12-02%20151850.png
+?raw=true)
 
 # Structure PHP My Admin
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/gmbr/Screenshot%202023-12-02%20150900.png?raw=true)
 
 
 
