@@ -48,6 +48,6 @@ Guru:
 ![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Screenshot%202023-12-02%20151850.png?raw=true)
 
 # Structure PHP My Admin
-
+![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Database.png?raw=true)
 
 
