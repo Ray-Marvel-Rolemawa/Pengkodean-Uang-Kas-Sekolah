@@ -46,3 +46,6 @@ Guru:
 ![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/gmbr/Screenshot%202023-12-02%20151810.png?raw=true)
 ![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/gmbr/Screenshot%202023-12-02%20151833.png?raw=true)
 ![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/gmbr/Screenshot%202023-12-02%20151850.png?raw=true)
+
+# Tampilan 
+
