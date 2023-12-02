@@ -7,7 +7,7 @@ Aplikasi Sederhana untuk mengelola uang kas sekaligus pengeluarannya.
 Aplikasi ini hanya dapat menghandle satu kelas saja.
 Meskipun begitu, tapi aplikasi ini sangat praktis dan tetap optimal dengan bisa menghandle uang kas dalam beberapa tahun serta menyediakan fitur-fitur yang sangat dibutuhkan seperti: riwayat pembayaran dan pengeluaran, laporan hasil perbulan dan lain-lain. 
 
-Cara memasangnya:
+# Cara memasang
 1. Download file ini
 2. Ekstrak pada htdocs/
 3. Buka phpmyadmin
@@ -16,7 +16,7 @@ Cara memasangnya:
 6. Buka localhost/uang_kas
 7. Selesai
 
-Akun:
+# Akun
 
 Administrator:
 
@@ -39,7 +39,7 @@ Guru:
 ❥ Password: 123456
 
 
-Tampilan Aplikasi :
+# Tampilan Aplikasi 
 ![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/gmbr/Screenshot%202023-12-02%20154312.png?raw=true)
 ![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/gmbr/Screenshot%202023-12-02%20151642.png?raw=true)
 ![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/gmbr/Screenshot%202023-12-02%20151701.png?raw=true)
