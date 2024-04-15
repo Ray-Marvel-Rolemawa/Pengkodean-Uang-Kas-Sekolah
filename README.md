@@ -17,7 +17,7 @@ Meskipun begitu, tapi aplikasi ini sangat praktis dan tetap optimal dengan bisa 
 2. Ekstrak pada htdocs/
 3. Buka phpmyadmin
 4. Buat database dengan nama: uang_kas
-5. Import file uang_kas.sql pada folder yang di ekstrak tadi
+5. Import file uang_kas.sql pada folder yang di ekstrak tadi pada MySql
 6. Buka localhost/uang_kas
 7. Ketik "localhost/SistemInformasiAkuntansi-Uang-Kas-Sekolah/" di browsing. Note : Tanda kutip tidak perlu disertakan
 8. Aplikasi terbuka
