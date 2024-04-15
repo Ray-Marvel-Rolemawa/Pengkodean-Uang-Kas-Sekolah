@@ -42,7 +42,7 @@
 	    min-height: 100vh;
 	    background-size: cover;
 	    background-repeat: no-repeat;
-	    background-image: url(assets/img/img_properties/bg-login.jpg);
+	    background-image: url(assets/img/img_properties/bg-login.jpeg);
 	}
 	
   	.container {
@@ -57,7 +57,7 @@
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-4 mx-5 py-4 px-5 text-dark rounded border border-dark" style="background-color: rgba(180,190,196,.6);">
-				<h3 class="text-center">UANG KAS</h3>
+				<h3 class="text-center">UANG KAS SEKOLAH</h3>
 				<form method="post">
 					<div class="form-group">
 						<label for="username"><i class="fas fa-fw fa-user"></i> Username</label>
@@ -79,7 +79,7 @@
 		<div style="background-color: transparent;" class="container-fluid mt-5">
 			<div class="row justify-content-center">
 				<div class="col-lg text-center text-white pt-4 pb-2">
-					<p>&copy; Copyright 2020. By Andri Firman Saputra. All Right Reserved.</p>
+					<p>&copy; Copyright 2023. By Ray Marvel Rolemawa. All Right Reserved.</p>
 				</div>
 			</div>
 		</div>
