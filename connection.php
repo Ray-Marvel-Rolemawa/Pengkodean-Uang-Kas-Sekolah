@@ -53,20 +53,20 @@ if (isset($_SESSION['alert'])) {
 
 function checkLogin() {
 	if (!isset($_SESSION['id_user'])) {
-		setAlert("Access Denied!", "Login First!", "error");
+		setAlert("Akses Ditolak!", "Login Terlebih Dahulu!", "error");
 		header('Location: login.php');
 	} 
 }
 
 function checkLoginAtLogin() {
 	if (isset($_SESSION['id_user'])) {
-		setAlert("You has been logged!", "Welcome!", "success");
+		setAlert("Kamu Berhasil Masuk!", "Selamat Datang!", "success");
 		header('Location: index.php');
 	}
 }
 
 function logout() {
-	setAlert("You has been logout!", "Success Logout!", "success");
+	setAlert("Kamu Berhasil Keluar!", "Log Out Berhasil!", "success");
 	header("Location: login.php");
 }
 
@@ -100,7 +100,7 @@ function editJabatan($data) {
 function checkJabatan() {
 	$id_jabatan = $_SESSION['id_jabatan'];
 	if ($id_jabatan !== '1') {
-		setAlert("Access Denied!", "You cannot delete data except administrator!", "error");
+		setAlert("Akses Ditolak!", "Tidak dapat menghapus, kecuali administrator!", "error");
      	header("Location: index.php");
 	} else {
 		return true;
@@ -128,13 +128,13 @@ function addUser($data) {
 	$username = htmlspecialchars($data['username']);
 	$query = mysqli_query($conn, "SELECT * FROM user WHERE username = '$username'");
 	if (mysqli_fetch_assoc($query)) {
-		setAlert("Failed to add user!", "Username has been used!", "error");
+		setAlert("Gagal menambah user!", "Username telah dipakai!", "error");
      	return header("Location: user.php");
 	} else {
 		$password = htmlspecialchars($data['password']);
 		$password_verify = htmlspecialchars($data['password_verify']);
 		if ($password !== $password_verify) {
-			setAlert("Failed to add user!", "password not same password verify!", "error");
+			setAlert("Gagal menambah user!", "password tidak sama dengan password verifikasi!", "error");
 	     	return header("Location: user.php");
 		} else {
 			$password = password_hash($password, PASSWORD_DEFAULT);
