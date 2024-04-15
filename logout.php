@@ -3,3 +3,4 @@
 	session_destroy();
 	logout();
 ?>
+
