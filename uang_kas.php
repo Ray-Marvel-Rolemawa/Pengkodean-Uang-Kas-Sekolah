@@ -23,7 +23,7 @@
 <html>
 <head>
   <?php include 'include/css.php'; ?>
-  <title>Uang Kas</title>
+  <title>Uang Kas Sekolah</title>
 </head>
 <body class="hold-transition sidebar-mini layout-fixed">
 <div class="wrapper">
@@ -182,7 +182,7 @@
   </div>
   <!-- /.content-wrapper -->
   <footer class="main-footer">
-    <strong>Copyright &copy; 2020 By Andri Firman Saputra.</strong>
+    <strong>Copyright &copy; 2023 By Ray Marvel Rolemawa.</strong>
     All rights reserved.
     <div class="float-right d-none d-sm-inline-block">
       <b>Version</b> 1.0.0
