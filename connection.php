@@ -290,7 +290,7 @@ function changePassword($data) {
 			$query = mysqli_query($conn, "UPDATE user SET password = '$password' WHERE id_user = '$id_user'");
 	  		return mysqli_affected_rows($conn);
 		} else {
-			setAlert("Failed to change password user!", "New Password not Matches with New Password Verify!", "error");
+			setAlert("Gagal mengubah password user!", "Password baru tidak sama dengan password verifikasi lama!", "error");
 	     	return header("Location: profile.php");
 		}
 	} else {
