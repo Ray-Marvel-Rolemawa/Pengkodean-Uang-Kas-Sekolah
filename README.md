@@ -1,11 +1,11 @@
-# Tugas SIA
+# Tugas Pengkodean
 Ray Marvel Rolemawa
 
 12030122120021
 
 Akuntansi
 
-SIA Kelas A
+Pengkodean Kelas E
 
 # SistemInformasiAkuntansi-Uang-Kas-Sekolah
 Aplikasi Sederhana untuk mengelola uang kas sekaligus pengeluarannya. 
@@ -46,14 +46,6 @@ Guru:
 
 ❥ Password: 123456
 
-
-# Tampilan Aplikasi 
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Screenshot%202023-12-02%20154312.png?raw=true)
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Screenshot%202023-12-02%20151642.png?raw=true)
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Screenshot%202023-12-02%20151701.png?raw=true)
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Screenshot%202023-12-02%20151810.png?raw=true)
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Screenshot%202023-12-02%20151833.png?raw=true)
-![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Screenshot%202023-12-02%20151850.png?raw=true)
 
 # Structure PHPMyAdmin
 ![alt text](https://github.com/Ray-Marvel-Rolemawa/SistemInformasiAkuntansi-Uang-Kas-Sekolah/blob/main/Description/Database.png?raw=true)
