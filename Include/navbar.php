@@ -6,7 +6,7 @@
       <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
     </li>
     <li class="nav-item d-none d-sm-inline-block">
-      <a href="index.php" class="nav-link">Dashboard</a>
+      <a href="index.php" class="nav-link">Menu</a>
     </li>
   </ul>
 
@@ -31,7 +31,7 @@
       </a>
       <div class="dropdown-menu dropdown-menu-right">
         <a href="profile.php" class="dropdown-item">
-          <i class="far fa-fw fa-user"></i> Profile
+          <i class="far fa-fw fa-user"></i> Profil
         </a>
         <a href="logout.php" class="dropdown-item">
           <i class="fas fa-fw fa-sign-out-alt"></i> Logout
