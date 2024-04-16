@@ -101,8 +101,8 @@
     <!-- /.content -->
   </div>
   <!-- /.content-wrapper -->
-  <footer class="main-footer" color="dark blue">
-    <strong color="white">Copyright &copy; 2023 By Ray Marvel Rolemawa.</strong>
+  <footer class="main-footer">
+    <strong>Copyright &copy; 2023 By Ray Marvel Rolemawa.</strong>
     All rights reserved.
     <div class="float-right d-none d-sm-inline-block">
       <b>Version</b> 1.0.0
